@@ -34,15 +34,18 @@ This script renames subtitle files to match the corresponding video file names a
 
 #### Before running the script:
 
+```
 /video_directory
 ├── video1.mkv
 ├── video2.mp4
 ├── sub/
 ├── subtitle1.srt
 ├── subtitle2.smi
+```
 
 #### After running the script:
 
+```
 /video_directory
 ├── video1.mkv
 ├── video2.mp4
@@ -52,6 +55,7 @@ This script renames subtitle files to match the corresponding video file names a
 ├── subfix/
 ├── video1.srt
 ├── video2.smi
+```
 
 ## Usage Instructions
 
