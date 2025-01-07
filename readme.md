@@ -68,7 +68,8 @@ This script renames subtitle files to match the corresponding video file names a
 
 3. When prompted, enter the directory path where your video files are located.
 
-Error Handling
+## Error Handling
+
 • If the number of video files and subtitle files do not match, the script will raise the following error:
 
 ```
